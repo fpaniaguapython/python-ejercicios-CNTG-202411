@@ -7,7 +7,7 @@ Modos son (opcional, por defecto r):
 Encoding (opcional):
 - utf-8 
 '''
-fichero = open('salida.dat',mode='w',encoding='utf-8')
+fichero = open('salida.dat', mode='w', encoding='utf-8')
 fichero.write('Este texto quiero quede escrito')
 fichero.close()
 
