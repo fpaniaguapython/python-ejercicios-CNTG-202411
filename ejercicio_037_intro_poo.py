@@ -1,5 +1,5 @@
 class Alumno:
-    def __init__(self, nombre, email, poblacion) -> None:
+    def __init__(self, nombre, email, poblacion : str ='Santiago de Compostela') -> None:
         print('En el método __init__ de Alumno')
         self.nombre = nombre # Definición de atributo
         self.email = email
