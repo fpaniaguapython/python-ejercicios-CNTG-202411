@@ -56,5 +56,3 @@ pila2.push('2')
 pila2.push('2')
 pila2.pop()
 pila.mostrar_contador()
-
-

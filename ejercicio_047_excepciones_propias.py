@@ -1,0 +1,2 @@
+class RicardoException(Exception):
+    pass
